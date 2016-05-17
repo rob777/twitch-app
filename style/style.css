@@ -1,0 +1,46 @@
+.well {
+    margin-top: 20px;
+    max-width: 700px;
+}
+
+.app-name {
+    font-size: 30px;
+    text-align: center;
+    padding-bottom: 20px;
+    font-weight: bold;
+}
+
+.avatar {
+    max-width: 50px;
+    max-height: 50px;
+    border-radius: 50%;
+}
+
+.online {
+    margin-left: 0.5px;
+    margin-right: 0.5px;
+    margin-top: 10px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    border: 2px solid #337AB7;
+    border-left: 10px solid #337AB7;
+}
+
+.offline {
+    margin-left: 0.5px;
+    margin-right: 0.5px;
+    margin-top: 10px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    border: 2px solid #4b4747;
+    border-left: 10px solid #4b4747;
+}
+
+.nav {
+    margin-bottom: 30px;
+}
+
+.text {
+    line-height: 50px;
+    padding-left: 15px;
+}
